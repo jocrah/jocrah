@@ -6,7 +6,7 @@ I am Joshua Ocrah, a backend/infrastructure software engineer with over 5 years 
 
 ## Brace yourself. Yet still more information about me
 
-In my spare time, I like to learn a lot and also admire creativity in other unrelated professions. Thankfully, I am a part of a study group and we recently wrapped up reading Designing Data-Intensive Applications by Martin Klepmann and got the opportunity to have a talk with him about it!
+In my spare time, I like to learn a lot and also admire creativity in other unrelated professions. Thankfully, I am a part of a study group and we recently wrapped up reading [Designing Data-Intensive Applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/) by Martin Kleppmann and got the opportunity to have a talk with him about it!
 
 ## Open source and mentorship
 
